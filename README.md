@@ -1,4 +1,5 @@
 deployed contract address: 0xBaAEF1E47DEdc209E0B80D6606624e97146d1d6B 
+
 Build a dynamic whitelist with staking requirements, write this smart contract in Solidity, no imports and constructors, with no input fields
 # WhitelistStaking
 
